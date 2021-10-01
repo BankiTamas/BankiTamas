@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Linkedin
 - 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me tamas@bankitamas.hu | linkd.in/TamasBanki
-- 🌱 I’m currently <b>teaching</b> Linkedin in English: TamasBanki.com/services in Hungarian: https://Linkedin-Kepzes.hu 
+- 🌱 I’m currently <b>teaching</b> Linkedin in English: https://TamasBanki.com/services in Hungarian: https://Linkedin-Kepzes.hu 
  
 
 <!---
